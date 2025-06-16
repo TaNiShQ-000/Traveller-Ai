@@ -1,0 +1,12 @@
+[
+    {"name": "Eiffel Tower", "type": "landmark", "cost": 25, "season": "all", "area": "Left Bank"},
+    {"name": "Louvre Museum", "type": "museum", "cost": 15, "season": "all", "area": "Right Bank"},
+    {"name": "Notre-Dame Cathedral", "type": "landmark", "cost": 0, "season": "all", "area": "Île de la Cité"},
+    {"name": "Montmartre Tour", "type": "sightseeing", "cost": 10, "season": "spring", "area": "Montmartre"},
+    {"name": "Seine River Cruise", "type": "adventure", "cost": 20, "season": "summer", "area": "Left Bank"},
+    {"name": "Luxembourg Gardens", "type": "nature", "cost": 0, "season": "spring", "area": "Left Bank"},
+    {"name": "Palace of Versailles", "type": "history", "cost": 20, "season": "all", "area": "Versailles"},
+    {"name": "Le Marais District", "type": "sightseeing", "cost": 0, "season": "all", "area": "Right Bank"},
+    {"name": "Moulin Rouge Show", "type": "entertainment", "cost": 100, "season": "all", "area": "Montmartre"},
+    {"name": "Café Culture Experience", "type": "food", "cost": 30, "season": "all", "area": "Left Bank"}
+]
